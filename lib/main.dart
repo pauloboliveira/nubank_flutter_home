@@ -42,9 +42,9 @@ class _MyAppState extends State<MyApp> {
       backgroundColor: ColorUtil.color("9F0899"),
       body: Center(
         child: Image.asset(
-          "build/images/logo_nubank.png",
-          height: 90,
-          width: 90,
+          "build/images/logo_nubank-removebg-preview.png",
+          height: 50,
+          width: 50,
         ),
       ),
     );
